@@ -1,6 +1,6 @@
 {
     "name": "ROBOCON",
-    "description": "Thư viện khối lệnh bổ sung cho thi đấu Robocon của robot xBot",
+    "description": "Test your skills in the Robocon Racing game! Control your robot to navigate through the track and reach the finish line.",
     "libs": [
         "robocon_xbot.py",
         "gamepad.py",
